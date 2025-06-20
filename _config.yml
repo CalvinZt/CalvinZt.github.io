@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhihua Fan / Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zhihua Fan"
 description              : &description "personal description"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Zhihua Fan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor in the Institute of Computing Technology, Chinese Academy of Sciences"
+  location         : "Beijing"
+  employer         : "Institute of Computing Technology, Chinese Academy of Sciences"
   uri              : # URL
   email            : "fanzhihua@ict.ac.cn" 
 
