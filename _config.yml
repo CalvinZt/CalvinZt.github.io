@@ -26,7 +26,7 @@ author:
   name             : "Zhihua Fan"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor in the Institute of Computing Technology, Chinese Academy of Sciences"
-  location         : "Beijing"
+  location         : "Beijing, China"
   employer         : "ICT"
   uri              : # URL
   email            : "fanzhihua@ict.ac.cn" 
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
